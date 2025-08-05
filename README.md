@@ -15,5 +15,4 @@ A simple React app that allows users to create a personalized portfolio by filli
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/portfolio-generator.git
-# portfolio-generator
+git clone https://github.com/kaviyaalaguv/portfolio-generator.git
